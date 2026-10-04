@@ -39,7 +39,6 @@ apis:
   - name: Stoicism Quote
     description: "Quotes about Stoicism"
     humanURL: https://github.com/tlcheah2/stoic-quote-lambda-public-api
-    baseURL: https://github.com/tlcheah2/stoic-quote-lambda-public-api
     tags:
       - Personality
     properties:
